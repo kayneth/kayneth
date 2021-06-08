@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working as a freelancer
+- 🌱 I’m currently learning devops skills as provisionning and deploying apps with Ansible/Terraform on VPS or AWS ECS/Fargate
+- 👯 I’m looking to collaborate with teams on Clean Architectures, BDD methodologies and grow up as a TDD developer 
+- ⚡ Fun fact: I may have purple, pink, blue, red, blonde or grey hair ATM
+
 <!--
 **kayneth/kayneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
